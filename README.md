@@ -18,3 +18,6 @@ ___#Python-3.6
 
 __requirements.txt
 This is for deploy in cloud
+
+__Procefile
+To run the bot in Heroku
