@@ -10,7 +10,7 @@
       - ```/start``` : To add new ToDo items
       - ```/show``` : To display ToDo items
       - ```/done``` : To remove ToDo items after they are completed
-        (here, it'll display the ToDo items in a In-line Keyboard fashion, In which we select a particular button it'll remove that ToDo item from the list)
+    - Here, It'll display the ToDo items in a In-line Keyboard fashion, In which we select a particular button it'll remove that ToDo item from the list)
     
   - A model file __dbhelper.py__  to interact with __DB__
     - This file consists a __DBHelper__ Class
