@@ -6,11 +6,11 @@
   
 - This repo contains following files,
   - An entry point file __bot.py__
-    - __Commands___ that it'll handle are as follows:
+    - __Commands__ that it'll handle are as follows:
       - ```/start``` : To add new ToDo items
       - ```/show``` : To display ToDo items
       - ```/done``` : To remove ToDo items after they are completed
-    - Here, It'll display the ToDo items in a In-line Keyboard fashion, In which we select a particular button it'll remove that ToDo item from the list)
+    - Here, It'll display the ToDo items in a In-line Keyboard fashion, In which we select a particular button it'll remove that ToDo item from the list.
     
   - A model file __dbhelper.py__  to interact with __DB__
     - This file consists a __DBHelper__ Class
@@ -25,5 +25,5 @@
     
 ## ```Note:```
 - This repo was created in interest of learning the concepts.
-- If anybody finds helpful, Kindly provide a ```Star``` or
-```fork``` for adding new feature or ```ANY Issues``` with this repo, feel free to connect with me.)
+- If anybody finds helpful, Kindly provide a ```🌟``` or
+```fork``` for adding new feature or ```ANY Issues``` with this repo, feel free to connect with me 📮.)
